@@ -10,13 +10,13 @@ Three big components
 
 ## Function Input
 
-f(x) = <Get plain input> 
+f(x) = (Get plain input) 
 
-<Plain Function Input> --> <Parsed Function> (transformed using shunting-yard algorithm)
+(Plain Function Input) --> (Parsed Function) (transformed using shunting-yard algorithm)
 
 ## Antiderivative Calculation
 
 
 ## Function Output
 
-<Antiderivative> --> LaTeX output
+(Antiderivative) --> LaTeX output
